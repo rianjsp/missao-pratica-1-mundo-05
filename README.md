@@ -12,15 +12,15 @@ Este é um aplicativo simples de cadastro e gestão de fornecedores, onde é pos
 
 ## Libs utilizadas
 
-**Principal:** React Native (Framework para desenvolvimento de aplicativos móveis)
+**Principal:** React Native (Framework para desenvolvimento de aplicativos móveis) e Expo.
 
 **Secundários:** react-native-vector-icons, react-native-picke.
 
 
 ## Estrutura de pastas
 
-fornecedores-app
-Src - Meu App
+**fornecedores-app**
+(Source) - Meu App
 
 **Principal**:
 - App.js
@@ -29,3 +29,6 @@ Src - Meu App
 - Micro Atividades Solicitadas
 - Missao_pratica > Micro_atv > Atividade antecedente à Missão prática
 - **Missao_Pratica > Componentes > Componentes necessários para missão prática**
+
+**Relatório**
+- relatorio_discente
